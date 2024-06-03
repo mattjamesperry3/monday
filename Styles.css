@@ -12,10 +12,18 @@ footer      {
     color: gray;
 }
 
+h2      {
+    color: magenta;
+}
+
+h3      {
+    color: maroon
+}
+
 h4      {
     color: darkorchid;
 }
 
 li      {
-    color: rebeccapurple;
+    color: green;
 }
